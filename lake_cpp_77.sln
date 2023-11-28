@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lake_cpp_77", "lake_cpp_77.vcxproj", "{454CE2A3-DC7D-46EB-9E40-A764D0CAD517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454CE2A3-DC7D-46EB-9E40-A764D0CAD517}.Debug|x64.ActiveCfg = Debug|x64
+		{454CE2A3-DC7D-46EB-9E40-A764D0CAD517}.Debug|x64.Build.0 = Debug|x64
+		{454CE2A3-DC7D-46EB-9E40-A764D0CAD517}.Debug|x86.ActiveCfg = Debug|Win32
+		{454CE2A3-DC7D-46EB-9E40-A764D0CAD517}.Debug|x86.Build.0 = Debug|Win32
+		{454CE2A3-DC7D-46EB-9E40-A764D0CAD517}.Release|x64.ActiveCfg = Release|x64
+		{454CE2A3-DC7D-46EB-9E40-A764D0CAD517}.Release|x64.Build.0 = Release|x64
+		{454CE2A3-DC7D-46EB-9E40-A764D0CAD517}.Release|x86.ActiveCfg = Release|Win32
+		{454CE2A3-DC7D-46EB-9E40-A764D0CAD517}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E8CE4B-9C3C-4086-9AF1-20423E3903A3}
+	EndGlobalSection
+EndGlobal
